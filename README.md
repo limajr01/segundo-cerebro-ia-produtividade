@@ -50,7 +50,14 @@ As três fontes acima foram importadas e utilizadas nas respostas. Foi testada t
 
 ## Materiais e evidências
 
-O mapa mental **“Mapa Mental IA Generativa”** e a apresentação curta **“Produtividade com IA Generativa”** foram gerados no Estúdio com as três fontes válidas. Os arquivos exportados e as capturas das citações ainda precisam ser anexados à pasta `evidencias/`; este README não afirma que anexos ausentes já foram enviados ao GitHub.
+O mapa mental **“Mapa Mental IA Generativa”** e a apresentação curta **“Produtividade com IA Generativa”** foram gerados no Estúdio com as três fontes válidas. As capturas a seguir documentam o trabalho realizado:
+
+- [Resposta com citações verificáveis](chat-citacoes.jpg)
+- [Pergunta sobre produtividade e resposta](pergunta-produtividade.jpg)
+- [Mapa mental gerado no Estúdio](mapa-mental-estudio.jpg)
+- [Apresentação gerada no Estúdio](apresentacao-estudio.jpg)
+
+As imagens são capturas de tela do notebook. **Não são exportações nativas** do mapa mental em PNG nem dos slides em PDF; esses dois downloads não foram concluídos.
 
 ## Link do notebook
 
@@ -67,11 +74,12 @@ O mapa mental **“Mapa Mental IA Generativa”** e a apresentação curta **“
 - [x] Mapa mental gerado.
 - [x] Confirmar geração da apresentação.
 - [ ] Exportar a apresentação.
-- [ ] Exportar o mapa mental e capturas reais das respostas com citações.
+- [x] Anexar capturas reais das respostas com citações, mapa e apresentação.
+- [ ] Exportar o mapa mental como PNG.
 - [x] Compartilhar o notebook para leitura por link.
 - [ ] Testar acesso externo ao notebook.
-- [ ] Publicar e conferir os arquivos no repositório público da própria conta GitHub.
-- [ ] Conferir o repositório e enviar **seu link** à DIO.
+- [x] Publicar os arquivos no repositório público da própria conta GitHub.
+- [x] Conferir o repositório; o link dele é o endereço a enviar à DIO.
 
 ## Observação
 
